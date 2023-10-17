@@ -4,7 +4,11 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-gustavofreireyt/gustavofreireyt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Especial 
+ <i class="devicon-react-original"></i>
+   <i class="devicon-css3-plain"></i> 
+     <i class="devicon-javascript-plain"></i>
+  
+          
+          
+          
