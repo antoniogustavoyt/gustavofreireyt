@@ -1,8 +1,8 @@
 ## Oiii eu sou o Antonio Gustavo, Design e Programador Web!
 
 <div>
-<img height="180cm" src=https://github-readme-stats.vercel.app/api?gustavofreireyt=atrue&theme=dark#gh-dark-mode-only
-<img height="180cm" src=https://github-readme-stats.vercel.app/api/top-langs/?gustavofreireyt=anuraghazra&layout=compact
+<img height="180cm" src=[https://github-readme-stats.vercel.app/api?gustavofreireyt=atrue&theme=dark#gh-dark-mode-only
+<img height="180cm" src=(https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofreireyt&layout=compact
   
 </div>
 
