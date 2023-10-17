@@ -2,7 +2,7 @@
 
 <div>
 <img height="180cm" src=https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only/
-<img height="180cm" src=[https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only/](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+<img height="180cm" src=[https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only/
 
   
 </div>
