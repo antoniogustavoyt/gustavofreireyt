@@ -5,10 +5,11 @@
 - 📫 How to reach me ...
 
 ### Especial 
+<div>
  <i class="devicon-react-original"></i>
    <i class="devicon-css3-plain"></i> 
      <i class="devicon-javascript-plain"></i>
   
-          
+   </div>     
           
           
